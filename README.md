@@ -46,7 +46,7 @@ Built for campus placement drives, HR teams, and working professionals, HireSens
 - Python 3.11+
 - Flask, Flask-SQLAlchemy, Flask-Login, Flask-Migrate
 - PostgreSQL 15
-- Docker & Docker Compose
+
 - Tailwind CSS v4 (via `@tailwindcss/browser` CDN — no build step)
 - Transformer models (BERT), spaCy, HuggingFace, NLTK
 - Pgvector (planned)
